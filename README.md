@@ -53,8 +53,7 @@ EMAIL2: kai.piper@aol.com
 
 EMAIL3: kaipiper@kai9987kai.pw
 
-Website: [https://kai9987kai.pw/AutoClicker.html](https://kai9987kai.pw/AutoClicker.html)
-https://newtoken.net
+Website: https://newtoken.net
 
 
 # Project links:
